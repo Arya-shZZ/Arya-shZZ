@@ -40,7 +40,7 @@ Cwk1A STARS - Demo notification ONLY
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> https://www.instagram.com/a_r_n_207/
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
