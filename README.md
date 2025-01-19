@@ -8,7 +8,7 @@ When I'm not diving into code or tools, you'll find me meditating, trekking, or 
 
 <img align = "right" alt = "coding" width = "400" src = "https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"> 
 
- 🎓 Education: Pursuing Bachelors in Computer Sccience |
+ 🎓 Education: Pursuing BSc(Hons) in Computer Science |
  
  🌱 Currently Learning: Java, Python, Sql, Developing Tools 
 
@@ -21,23 +21,18 @@ Languages: Java, Python, HTML, CSS, JavaScript, C <br>
 Databases: MySQL <br>
 Software & Tools <br>
 Microsoft Applications: Excel, Outlook, Word, PowerPoint <br>
-Cybersecurity Tools: Kali Linux, Metasploit, Nmap, Hashcat, John the Ripper, Maltego <br>
-Testing Methodologies: System Testing, Integration Testing, Regression Testing, AdHoc Testing, Performance Testing, Unit Testing, Smoke Testing <br>
+Cybersecurity Tools: Kali Linux, Metasploit, Nmap, Hashcat <br>
 
 <h3 align = "left"> 🚀 Projects & Experience </h3>
-Hatfield Apple Tree Supplies - Querying
-Hatfield Apple Tree Supplies - Physical Modelling
-Accessibility Mini-Hackathon (Team work)
-CW1 - ACE reflection assignment
-Advance SQL - CW
-Cwk 1A STARS - main submission
-Cwk1A STARS - Demo notification ONLY
-4COM2003.asm
-4COM2003.asm-T04L1e06 
-
-
-<h3 align = "left"> 🔹 Internships & Training in Tech 💻  </h3>
-
+Hatfield Apple Tree Supplies - Querying,
+Hatfield Apple Tree Supplies - Physical Modelling,
+Accessibility Mini-Hackathon (Team work),
+CW1 - ACE reflection assignment,
+Advance SQL - CW,
+Cwk 1A STARS - main submission,
+Cwk1A STARS - Demo notification ONLY,
+4COM2003.asm,
+4COM2003.asm-T04L1e06, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> https://www.instagram.com/a_r_n_207/
