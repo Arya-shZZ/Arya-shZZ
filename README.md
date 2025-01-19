@@ -12,7 +12,7 @@ When I'm not diving into code or tools, you'll find me meditating, trekking, or 
  
  🌱 Currently Learning: Java, Python, Sql, Developing Tools 
 
- 💻 Passionate About: Cybersecurity, Software Testing, Healthcare IT
+ 💻 Passionate About: Conputer science, Virtual Reality, Internet of Things, Web Development
 
 <h3 align = "left"> 🛠 Skills & Technologies </h3>
 
@@ -25,7 +25,15 @@ Cybersecurity Tools: Kali Linux, Metasploit, Nmap, Hashcat, John the Ripper, Mal
 Testing Methodologies: System Testing, Integration Testing, Regression Testing, AdHoc Testing, Performance Testing, Unit Testing, Smoke Testing <br>
 
 <h3 align = "left"> 🚀 Projects & Experience </h3>
-
+Hatfield Apple Tree Supplies - Querying
+Hatfield Apple Tree Supplies - Physical Modelling
+Accessibility Mini-Hackathon (Team work)
+CW1 - ACE reflection assignment
+Advance SQL - CW
+Cwk 1A STARS - main submission
+Cwk1A STARS - Demo notification ONLY
+4COM2003.asm
+4COM2003.asm-T04L1e06 
 
 
 <h3 align = "left"> 🔹 Internships & Training in Tech 💻  </h3>
@@ -37,6 +45,6 @@ Testing Methodologies: System Testing, Integration Testing, Regression Testing, 
 </p>
 
 
-📧 Email: "" <br>
+📧 Email: "aaryansharma0297@gmail.com" <br>
 🎉 Fun Fact <br>
 I love exploring new programming languages just for fun! Whether it's learning a new syntax or diving into a completely new paradigm, I enjoy the challenge and the creativity it brings.
